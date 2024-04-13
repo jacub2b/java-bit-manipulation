@@ -1,4 +1,4 @@
-package jack.awsome;
+package jack.awsome.function;
 
 @FunctionalInterface
 public interface XKFunction<X, K, S> {
